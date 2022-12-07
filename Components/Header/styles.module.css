@@ -1,0 +1,9 @@
+.menu1{
+    @apply bg-amber-400 p-8 drop-shadow-md;
+}
+.formatmenu{
+    @apply text-center px-2 hover:underline;
+}
+.menu2{ 
+    @apply text-center bg-amber-300 drop-shadow-md;
+}

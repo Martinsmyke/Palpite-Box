@@ -1,0 +1,12 @@
+.footer {
+    @apply text-center bg-amber-400 p-8
+;}
+.footerletter {
+    @apply container mx-auto font-bold text-black
+;}
+.assinatura{
+    @apply hover:underline mx-auto
+;}
+.space{
+    @apply inline mt-2 p-3
+}
